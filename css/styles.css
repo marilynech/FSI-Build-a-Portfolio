@@ -1,15 +1,18 @@
  h1 {
      color: lightblue;
+     background-color: #8398ce;
 
  }
 
  h2 {
-     color: lightskyblue;
+     color: lightblue;
+     background-color: #8398ce;
 
  }
 
 h3 {
     color: lightblue;
+    background-color: #8398ce;
 }
 
  a:link, a:visited {
@@ -20,3 +23,11 @@ a:hover {
     text-decoration: none;
 }
    
+div {
+    background-color: #8398ce;
+}
+
+p {
+    color: rgb(161, 189, 241);
+    background-color: rgb(251, 249, 247);
+}
