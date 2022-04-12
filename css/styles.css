@@ -1,0 +1,22 @@
+ h1 {
+     color: lightblue;
+
+ }
+
+ h2 {
+     color: lightskyblue;
+
+ }
+
+h3 {
+    color: lightblue;
+}
+
+ a:link, a:visited {
+    color: #8398ce;
+}
+
+a:hover {
+    text-decoration: none;
+}
+   
