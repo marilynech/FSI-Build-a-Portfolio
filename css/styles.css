@@ -16,7 +16,7 @@ h3 {
 }
 
  a:link, a:visited {
-    color: #8398ce;
+    color: #5d81dd;
 }
 
 a:hover {
@@ -24,10 +24,10 @@ a:hover {
 }
    
 div {
-    background-color: #8398ce;
+    background-color: hwb(219 63% 5%);
 }
 
 p {
-    color: rgb(161, 189, 241);
-    background-color: rgb(251, 249, 247);
+    color: hwb(219 63% 5%);
+    background-color: rgb(188, 198, 239);
 }
